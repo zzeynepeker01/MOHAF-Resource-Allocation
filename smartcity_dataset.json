@@ -1,0 +1,1056 @@
+{
+  "requests": [
+    {
+      "id": "0",
+      "task_type": "urban_heat_detection",
+      "priority": 8,
+      "aqi_risk": 0.794,
+      "heat_risk": 0.567,
+      "traffic_risk": 0.684,
+      "energy_risk": 0.163,
+      "climate_risk": 0.641,
+      "latency_requirement": 0.383,
+      "location": [
+        40.805,
+        29.0004
+      ]
+    },
+    {
+      "id": "1",
+      "task_type": "air_quality_monitoring",
+      "priority": 6,
+      "aqi_risk": 0.95,
+      "heat_risk": 0.577,
+      "traffic_risk": 0.597,
+      "energy_risk": 0.335,
+      "climate_risk": 0.706,
+      "latency_requirement": 0.527,
+      "location": [
+        41.1529,
+        28.9375
+      ]
+    },
+    {
+      "id": "2",
+      "task_type": "disaster_early_warning",
+      "priority": 2,
+      "aqi_risk": 0.149,
+      "heat_risk": 0.63,
+      "traffic_risk": 0.953,
+      "energy_risk": 0.42,
+      "climate_risk": 0.481,
+      "latency_requirement": 0.171,
+      "location": [
+        40.866,
+        29.1983
+      ]
+    },
+    {
+      "id": "3",
+      "task_type": "smart_energy",
+      "priority": 6,
+      "aqi_risk": 0.188,
+      "heat_risk": 0.927,
+      "traffic_risk": 0.544,
+      "energy_risk": 0.865,
+      "climate_risk": 0.549,
+      "latency_requirement": 0.544,
+      "location": [
+        41.0271,
+        28.6121
+      ]
+    },
+    {
+      "id": "4",
+      "task_type": "disaster_early_warning",
+      "priority": 3,
+      "aqi_risk": 0.794,
+      "heat_risk": 0.946,
+      "traffic_risk": 0.296,
+      "energy_risk": 0.505,
+      "climate_risk": 0.711,
+      "latency_requirement": 0.246,
+      "location": [
+        41.1395,
+        29.1089
+      ]
+    },
+    {
+      "id": "5",
+      "task_type": "air_quality_monitoring",
+      "priority": 1,
+      "aqi_risk": 0.143,
+      "heat_risk": 0.931,
+      "traffic_risk": 0.79,
+      "energy_risk": 0.887,
+      "climate_risk": 0.583,
+      "latency_requirement": 0.261,
+      "location": [
+        41.0286,
+        28.9448
+      ]
+    },
+    {
+      "id": "6",
+      "task_type": "urban_heat_detection",
+      "priority": 8,
+      "aqi_risk": 0.583,
+      "heat_risk": 0.291,
+      "traffic_risk": 0.384,
+      "energy_risk": 0.306,
+      "climate_risk": 0.428,
+      "latency_requirement": 0.254,
+      "location": [
+        41.1286,
+        28.6834
+      ]
+    },
+    {
+      "id": "7",
+      "task_type": "disaster_early_warning",
+      "priority": 10,
+      "aqi_risk": 0.561,
+      "heat_risk": 0.309,
+      "traffic_risk": 0.701,
+      "energy_risk": 0.442,
+      "climate_risk": 0.502,
+      "latency_requirement": 0.259,
+      "location": [
+        40.9215,
+        28.8377
+      ]
+    },
+    {
+      "id": "8",
+      "task_type": "flood_sensor",
+      "priority": 9,
+      "aqi_risk": 0.537,
+      "heat_risk": 0.638,
+      "traffic_risk": 0.863,
+      "energy_risk": 0.239,
+      "climate_risk": 0.603,
+      "latency_requirement": 0.403,
+      "location": [
+        40.9659,
+        29.1942
+      ]
+    },
+    {
+      "id": "9",
+      "task_type": "disaster_early_warning",
+      "priority": 6,
+      "aqi_risk": 0.427,
+      "heat_risk": 0.882,
+      "traffic_risk": 0.118,
+      "energy_risk": 0.951,
+      "climate_risk": 0.554,
+      "latency_requirement": 0.313,
+      "location": [
+        40.8834,
+        28.8093
+      ]
+    },
+    {
+      "id": "10",
+      "task_type": "emergency_response",
+      "priority": 4,
+      "aqi_risk": 0.948,
+      "heat_risk": 0.512,
+      "traffic_risk": 0.975,
+      "energy_risk": 0.177,
+      "climate_risk": 0.746,
+      "latency_requirement": 0.682,
+      "location": [
+        41.0794,
+        29.2005
+      ]
+    },
+    {
+      "id": "11",
+      "task_type": "disaster_early_warning",
+      "priority": 4,
+      "aqi_risk": 0.844,
+      "heat_risk": 0.905,
+      "traffic_risk": 0.894,
+      "energy_risk": 0.849,
+      "climate_risk": 0.873,
+      "latency_requirement": 0.784,
+      "location": [
+        41.1304,
+        28.9706
+      ]
+    },
+    {
+      "id": "12",
+      "task_type": "disaster_early_warning",
+      "priority": 6,
+      "aqi_risk": 0.389,
+      "heat_risk": 0.775,
+      "traffic_risk": 0.45,
+      "energy_risk": 0.562,
+      "climate_risk": 0.534,
+      "latency_requirement": 0.3,
+      "location": [
+        40.8197,
+        28.8827
+      ]
+    },
+    {
+      "id": "13",
+      "task_type": "flood_sensor",
+      "priority": 10,
+      "aqi_risk": 0.728,
+      "heat_risk": 0.763,
+      "traffic_risk": 0.86,
+      "energy_risk": 0.358,
+      "climate_risk": 0.728,
+      "latency_requirement": 0.746,
+      "location": [
+        40.9565,
+        28.6507
+      ]
+    },
+    {
+      "id": "14",
+      "task_type": "smart_energy",
+      "priority": 2,
+      "aqi_risk": 0.27,
+      "heat_risk": 0.856,
+      "traffic_risk": 0.299,
+      "energy_risk": 0.348,
+      "climate_risk": 0.459,
+      "latency_requirement": 0.248,
+      "location": [
+        40.8915,
+        29.1908
+      ]
+    },
+    {
+      "id": "15",
+      "task_type": "traffic_management",
+      "priority": 6,
+      "aqi_risk": 0.961,
+      "heat_risk": 0.612,
+      "traffic_risk": 0.221,
+      "energy_risk": 0.462,
+      "climate_risk": 0.658,
+      "latency_requirement": 0.759,
+      "location": [
+        41.1704,
+        29.0892
+      ]
+    },
+    {
+      "id": "16",
+      "task_type": "smart_energy",
+      "priority": 3,
+      "aqi_risk": 0.94,
+      "heat_risk": 0.83,
+      "traffic_risk": 0.717,
+      "energy_risk": 0.186,
+      "climate_risk": 0.787,
+      "latency_requirement": 0.199,
+      "location": [
+        41.048,
+        29.164
+      ]
+    },
+    {
+      "id": "17",
+      "task_type": "smart_energy",
+      "priority": 6,
+      "aqi_risk": 0.231,
+      "heat_risk": 0.443,
+      "traffic_risk": 0.985,
+      "energy_risk": 0.404,
+      "climate_risk": 0.463,
+      "latency_requirement": 0.186,
+      "location": [
+        41.0322,
+        29.0499
+      ]
+    },
+    {
+      "id": "18",
+      "task_type": "flood_sensor",
+      "priority": 2,
+      "aqi_risk": 0.996,
+      "heat_risk": 0.645,
+      "traffic_risk": 0.461,
+      "energy_risk": 0.719,
+      "climate_risk": 0.756,
+      "latency_requirement": 0.509,
+      "location": [
+        40.8365,
+        29.0348
+      ]
+    },
+    {
+      "id": "19",
+      "task_type": "traffic_management",
+      "priority": 3,
+      "aqi_risk": 0.249,
+      "heat_risk": 0.947,
+      "traffic_risk": 0.417,
+      "energy_risk": 0.266,
+      "climate_risk": 0.494,
+      "latency_requirement": 0.266,
+      "location": [
+        41.1274,
+        29.1438
+      ]
+    },
+    {
+      "id": "20",
+      "task_type": "traffic_management",
+      "priority": 9,
+      "aqi_risk": 0.245,
+      "heat_risk": 0.258,
+      "traffic_risk": 0.225,
+      "energy_risk": 0.223,
+      "climate_risk": 0.243,
+      "latency_requirement": 0.189,
+      "location": [
+        40.8771,
+        28.8364
+      ]
+    },
+    {
+      "id": "21",
+      "task_type": "flood_sensor",
+      "priority": 9,
+      "aqi_risk": 0.537,
+      "heat_risk": 0.254,
+      "traffic_risk": 0.416,
+      "energy_risk": 0.845,
+      "climate_risk": 0.459,
+      "latency_requirement": 0.609,
+      "location": [
+        40.9013,
+        28.7473
+      ]
+    },
+    {
+      "id": "22",
+      "task_type": "disaster_early_warning",
+      "priority": 2,
+      "aqi_risk": 0.764,
+      "heat_risk": 0.519,
+      "traffic_risk": 0.514,
+      "energy_risk": 0.774,
+      "climate_risk": 0.642,
+      "latency_requirement": 0.259,
+      "location": [
+        40.879,
+        28.6338
+      ]
+    },
+    {
+      "id": "23",
+      "task_type": "flood_sensor",
+      "priority": 4,
+      "aqi_risk": 0.274,
+      "heat_risk": 0.462,
+      "traffic_risk": 0.509,
+      "energy_risk": 0.437,
+      "climate_risk": 0.394,
+      "latency_requirement": 0.746,
+      "location": [
+        40.8109,
+        29.2353
+      ]
+    },
+    {
+      "id": "24",
+      "task_type": "disaster_early_warning",
+      "priority": 8,
+      "aqi_risk": 0.7,
+      "heat_risk": 0.203,
+      "traffic_risk": 0.876,
+      "energy_risk": 0.334,
+      "climate_risk": 0.549,
+      "latency_requirement": 0.657,
+      "location": [
+        41.1572,
+        28.987
+      ]
+    },
+    {
+      "id": "25",
+      "task_type": "urban_heat_detection",
+      "priority": 5,
+      "aqi_risk": 0.282,
+      "heat_risk": 0.571,
+      "traffic_risk": 0.137,
+      "energy_risk": 0.401,
+      "climate_risk": 0.352,
+      "latency_requirement": 0.746,
+      "location": [
+        40.8018,
+        28.8617
+      ]
+    },
+    {
+      "id": "26",
+      "task_type": "urban_heat_detection",
+      "priority": 7,
+      "aqi_risk": 0.259,
+      "heat_risk": 0.787,
+      "traffic_risk": 0.162,
+      "energy_risk": 0.971,
+      "climate_risk": 0.469,
+      "latency_requirement": 0.513,
+      "location": [
+        41.1367,
+        28.8775
+      ]
+    },
+    {
+      "id": "27",
+      "task_type": "traffic_management",
+      "priority": 3,
+      "aqi_risk": 0.156,
+      "heat_risk": 0.723,
+      "traffic_risk": 0.492,
+      "energy_risk": 0.329,
+      "climate_risk": 0.411,
+      "latency_requirement": 0.146,
+      "location": [
+        40.8142,
+        29.1186
+      ]
+    },
+    {
+      "id": "28",
+      "task_type": "smart_energy",
+      "priority": 2,
+      "aqi_risk": 0.646,
+      "heat_risk": 0.396,
+      "traffic_risk": 0.208,
+      "energy_risk": 0.181,
+      "climate_risk": 0.437,
+      "latency_requirement": 0.652,
+      "location": [
+        40.9103,
+        29.1373
+      ]
+    },
+    {
+      "id": "29",
+      "task_type": "flood_sensor",
+      "priority": 10,
+      "aqi_risk": 0.295,
+      "heat_risk": 0.452,
+      "traffic_risk": 0.994,
+      "energy_risk": 0.355,
+      "climate_risk": 0.488,
+      "latency_requirement": 0.385,
+      "location": [
+        40.8145,
+        28.9549
+      ]
+    },
+    {
+      "id": "30",
+      "task_type": "emergency_response",
+      "priority": 5,
+      "aqi_risk": 0.107,
+      "heat_risk": 0.939,
+      "traffic_risk": 0.23,
+      "energy_risk": 0.702,
+      "climate_risk": 0.441,
+      "latency_requirement": 0.476,
+      "location": [
+        41.1215,
+        29.0285
+      ]
+    },
+    {
+      "id": "31",
+      "task_type": "traffic_management",
+      "priority": 5,
+      "aqi_risk": 0.159,
+      "heat_risk": 0.425,
+      "traffic_risk": 0.312,
+      "energy_risk": 0.383,
+      "climate_risk": 0.292,
+      "latency_requirement": 0.284,
+      "location": [
+        40.8647,
+        29.0863
+      ]
+    },
+    {
+      "id": "32",
+      "task_type": "smart_energy",
+      "priority": 10,
+      "aqi_risk": 0.114,
+      "heat_risk": 0.895,
+      "traffic_risk": 0.198,
+      "energy_risk": 0.497,
+      "climate_risk": 0.403,
+      "latency_requirement": 0.298,
+      "location": [
+        40.8203,
+        29.2765
+      ]
+    },
+    {
+      "id": "33",
+      "task_type": "disaster_early_warning",
+      "priority": 7,
+      "aqi_risk": 0.104,
+      "heat_risk": 0.945,
+      "traffic_risk": 0.335,
+      "energy_risk": 0.48,
+      "climate_risk": 0.44,
+      "latency_requirement": 0.475,
+      "location": [
+        41.0149,
+        29.1309
+      ]
+    },
+    {
+      "id": "34",
+      "task_type": "air_quality_monitoring",
+      "priority": 7,
+      "aqi_risk": 0.621,
+      "heat_risk": 0.634,
+      "traffic_risk": 0.452,
+      "energy_risk": 0.172,
+      "climate_risk": 0.546,
+      "latency_requirement": 0.188,
+      "location": [
+        41.024,
+        29.0772
+      ]
+    },
+    {
+      "id": "35",
+      "task_type": "traffic_management",
+      "priority": 5,
+      "aqi_risk": 0.909,
+      "heat_risk": 0.62,
+      "traffic_risk": 0.842,
+      "energy_risk": 0.668,
+      "climate_risk": 0.785,
+      "latency_requirement": 0.792,
+      "location": [
+        41.1356,
+        29.2744
+      ]
+    },
+    {
+      "id": "36",
+      "task_type": "smart_energy",
+      "priority": 3,
+      "aqi_risk": 0.338,
+      "heat_risk": 0.941,
+      "traffic_risk": 0.513,
+      "energy_risk": 0.995,
+      "climate_risk": 0.62,
+      "latency_requirement": 0.505,
+      "location": [
+        40.9917,
+        28.8648
+      ]
+    },
+    {
+      "id": "37",
+      "task_type": "emergency_response",
+      "priority": 5,
+      "aqi_risk": 0.356,
+      "heat_risk": 0.734,
+      "traffic_risk": 0.573,
+      "energy_risk": 0.729,
+      "climate_risk": 0.55,
+      "latency_requirement": 0.742,
+      "location": [
+        40.8778,
+        29.0931
+      ]
+    },
+    {
+      "id": "38",
+      "task_type": "air_quality_monitoring",
+      "priority": 1,
+      "aqi_risk": 0.175,
+      "heat_risk": 0.828,
+      "traffic_risk": 0.852,
+      "energy_risk": 0.151,
+      "climate_risk": 0.504,
+      "latency_requirement": 0.496,
+      "location": [
+        40.8478,
+        29.1012
+      ]
+    },
+    {
+      "id": "39",
+      "task_type": "disaster_early_warning",
+      "priority": 9,
+      "aqi_risk": 0.995,
+      "heat_risk": 0.116,
+      "traffic_risk": 0.999,
+      "energy_risk": 0.77,
+      "climate_risk": 0.71,
+      "latency_requirement": 0.208,
+      "location": [
+        41.1908,
+        29.0411
+      ]
+    },
+    {
+      "id": "40",
+      "task_type": "emergency_response",
+      "priority": 5,
+      "aqi_risk": 0.268,
+      "heat_risk": 0.571,
+      "traffic_risk": 0.208,
+      "energy_risk": 0.62,
+      "climate_risk": 0.382,
+      "latency_requirement": 0.256,
+      "location": [
+        41.0823,
+        28.991
+      ]
+    },
+    {
+      "id": "41",
+      "task_type": "urban_heat_detection",
+      "priority": 1,
+      "aqi_risk": 0.36,
+      "heat_risk": 0.705,
+      "traffic_risk": 0.169,
+      "energy_risk": 0.57,
+      "climate_risk": 0.446,
+      "latency_requirement": 0.573,
+      "location": [
+        40.958,
+        28.7034
+      ]
+    },
+    {
+      "id": "42",
+      "task_type": "disaster_early_warning",
+      "priority": 6,
+      "aqi_risk": 0.552,
+      "heat_risk": 0.327,
+      "traffic_risk": 0.7,
+      "energy_risk": 0.413,
+      "climate_risk": 0.5,
+      "latency_requirement": 0.649,
+      "location": [
+        41.1903,
+        28.7759
+      ]
+    },
+    {
+      "id": "43",
+      "task_type": "disaster_early_warning",
+      "priority": 7,
+      "aqi_risk": 0.107,
+      "heat_risk": 0.966,
+      "traffic_risk": 0.606,
+      "energy_risk": 0.172,
+      "climate_risk": 0.471,
+      "latency_requirement": 0.405,
+      "location": [
+        40.9424,
+        28.8602
+      ]
+    },
+    {
+      "id": "44",
+      "task_type": "emergency_response",
+      "priority": 7,
+      "aqi_risk": 0.349,
+      "heat_risk": 0.341,
+      "traffic_risk": 0.861,
+      "energy_risk": 0.168,
+      "climate_risk": 0.431,
+      "latency_requirement": 0.609,
+      "location": [
+        40.9611,
+        29.2625
+      ]
+    },
+    {
+      "id": "45",
+      "task_type": "air_quality_monitoring",
+      "priority": 5,
+      "aqi_risk": 0.589,
+      "heat_risk": 0.143,
+      "traffic_risk": 0.683,
+      "energy_risk": 0.546,
+      "climate_risk": 0.47,
+      "latency_requirement": 0.29,
+      "location": [
+        40.9545,
+        28.814
+      ]
+    },
+    {
+      "id": "46",
+      "task_type": "flood_sensor",
+      "priority": 8,
+      "aqi_risk": 0.211,
+      "heat_risk": 0.901,
+      "traffic_risk": 0.265,
+      "energy_risk": 0.14,
+      "climate_risk": 0.422,
+      "latency_requirement": 0.591,
+      "location": [
+        41.1705,
+        29.28
+      ]
+    },
+    {
+      "id": "47",
+      "task_type": "flood_sensor",
+      "priority": 9,
+      "aqi_risk": 0.737,
+      "heat_risk": 0.946,
+      "traffic_risk": 0.926,
+      "energy_risk": 0.526,
+      "climate_risk": 0.816,
+      "latency_requirement": 0.502,
+      "location": [
+        41.0591,
+        29.0164
+      ]
+    },
+    {
+      "id": "48",
+      "task_type": "air_quality_monitoring",
+      "priority": 10,
+      "aqi_risk": 0.637,
+      "heat_risk": 0.621,
+      "traffic_risk": 0.999,
+      "energy_risk": 0.892,
+      "climate_risk": 0.73,
+      "latency_requirement": 0.255,
+      "location": [
+        41.0541,
+        28.6368
+      ]
+    },
+    {
+      "id": "49",
+      "task_type": "urban_heat_detection",
+      "priority": 1,
+      "aqi_risk": 0.538,
+      "heat_risk": 0.45,
+      "traffic_risk": 0.705,
+      "energy_risk": 0.312,
+      "climate_risk": 0.522,
+      "latency_requirement": 0.304,
+      "location": [
+        41.1839,
+        28.6692
+      ]
+    }
+  ],
+  "resources": [
+    {
+      "id": "0",
+      "capacity": 0.581,
+      "energy_efficiency": 0.125,
+      "latency": 0.36,
+      "compute_load": 0.739,
+      "availability": 0.508,
+      "reliability": 0.524,
+      "cost_per_unit": 1.657
+    },
+    {
+      "id": "1",
+      "capacity": 0.379,
+      "energy_efficiency": 0.189,
+      "latency": 0.7,
+      "compute_load": 0.761,
+      "availability": 0.85,
+      "reliability": 0.578,
+      "cost_per_unit": 1.802
+    },
+    {
+      "id": "2",
+      "capacity": 0.505,
+      "energy_efficiency": 0.29,
+      "latency": 0.861,
+      "compute_load": 0.728,
+      "availability": 0.936,
+      "reliability": 0.873,
+      "cost_per_unit": 1.748
+    },
+    {
+      "id": "3",
+      "capacity": 0.934,
+      "energy_efficiency": 0.688,
+      "latency": 0.797,
+      "compute_load": 0.257,
+      "availability": 0.803,
+      "reliability": 0.82,
+      "cost_per_unit": 1.611
+    },
+    {
+      "id": "4",
+      "capacity": 0.557,
+      "energy_efficiency": 0.374,
+      "latency": 0.312,
+      "compute_load": 0.611,
+      "availability": 0.604,
+      "reliability": 0.84,
+      "cost_per_unit": 0.612
+    },
+    {
+      "id": "5",
+      "capacity": 0.899,
+      "energy_efficiency": 0.635,
+      "latency": 0.749,
+      "compute_load": 0.535,
+      "availability": 0.969,
+      "reliability": 0.762,
+      "cost_per_unit": 1.887
+    },
+    {
+      "id": "6",
+      "capacity": 0.763,
+      "energy_efficiency": 0.556,
+      "latency": 0.375,
+      "compute_load": 0.666,
+      "availability": 0.636,
+      "reliability": 0.75,
+      "cost_per_unit": 1.074
+    },
+    {
+      "id": "7",
+      "capacity": 0.975,
+      "energy_efficiency": 0.471,
+      "latency": 0.782,
+      "compute_load": 0.496,
+      "availability": 0.776,
+      "reliability": 0.703,
+      "cost_per_unit": 0.427
+    },
+    {
+      "id": "8",
+      "capacity": 0.511,
+      "energy_efficiency": 0.662,
+      "latency": 0.674,
+      "compute_load": 0.603,
+      "availability": 0.792,
+      "reliability": 0.839,
+      "cost_per_unit": 1.743
+    },
+    {
+      "id": "9",
+      "capacity": 0.399,
+      "energy_efficiency": 0.431,
+      "latency": 0.86,
+      "compute_load": 0.573,
+      "availability": 0.979,
+      "reliability": 0.801,
+      "cost_per_unit": 0.777
+    },
+    {
+      "id": "10",
+      "capacity": 0.646,
+      "energy_efficiency": 0.71,
+      "latency": 0.393,
+      "compute_load": 0.631,
+      "availability": 0.764,
+      "reliability": 0.829,
+      "cost_per_unit": 1.586
+    },
+    {
+      "id": "11",
+      "capacity": 0.564,
+      "energy_efficiency": 0.831,
+      "latency": 0.169,
+      "compute_load": 0.449,
+      "availability": 0.855,
+      "reliability": 0.677,
+      "cost_per_unit": 0.458
+    },
+    {
+      "id": "12",
+      "capacity": 0.397,
+      "energy_efficiency": 0.304,
+      "latency": 0.445,
+      "compute_load": 0.24,
+      "availability": 0.925,
+      "reliability": 0.921,
+      "cost_per_unit": 1.188
+    },
+    {
+      "id": "13",
+      "capacity": 0.731,
+      "energy_efficiency": 0.194,
+      "latency": 0.216,
+      "compute_load": 0.898,
+      "availability": 0.883,
+      "reliability": 0.937,
+      "cost_per_unit": 1.782
+    },
+    {
+      "id": "14",
+      "capacity": 0.311,
+      "energy_efficiency": 0.236,
+      "latency": 0.211,
+      "compute_load": 0.817,
+      "availability": 0.705,
+      "reliability": 0.501,
+      "cost_per_unit": 1.26
+    },
+    {
+      "id": "15",
+      "capacity": 0.667,
+      "energy_efficiency": 0.985,
+      "latency": 0.215,
+      "compute_load": 0.823,
+      "availability": 0.811,
+      "reliability": 0.833,
+      "cost_per_unit": 1.951
+    },
+    {
+      "id": "16",
+      "capacity": 0.749,
+      "energy_efficiency": 0.16,
+      "latency": 0.904,
+      "compute_load": 0.178,
+      "availability": 0.897,
+      "reliability": 0.514,
+      "cost_per_unit": 1.428
+    },
+    {
+      "id": "17",
+      "capacity": 0.494,
+      "energy_efficiency": 0.32,
+      "latency": 0.618,
+      "compute_load": 0.411,
+      "availability": 0.989,
+      "reliability": 0.902,
+      "cost_per_unit": 0.449
+    },
+    {
+      "id": "18",
+      "capacity": 0.315,
+      "energy_efficiency": 0.57,
+      "latency": 0.727,
+      "compute_load": 0.9,
+      "availability": 0.843,
+      "reliability": 0.733,
+      "cost_per_unit": 0.885
+    },
+    {
+      "id": "19",
+      "capacity": 0.702,
+      "energy_efficiency": 0.465,
+      "latency": 0.126,
+      "compute_load": 0.725,
+      "availability": 0.616,
+      "reliability": 0.771,
+      "cost_per_unit": 1.948
+    },
+    {
+      "id": "20",
+      "capacity": 0.56,
+      "energy_efficiency": 0.164,
+      "latency": 0.514,
+      "compute_load": 0.369,
+      "availability": 0.592,
+      "reliability": 0.803,
+      "cost_per_unit": 0.536
+    },
+    {
+      "id": "21",
+      "capacity": 0.452,
+      "energy_efficiency": 0.667,
+      "latency": 0.733,
+      "compute_load": 0.825,
+      "availability": 0.939,
+      "reliability": 0.997,
+      "cost_per_unit": 1.572
+    },
+    {
+      "id": "22",
+      "capacity": 0.601,
+      "energy_efficiency": 0.71,
+      "latency": 0.29,
+      "compute_load": 0.245,
+      "availability": 0.561,
+      "reliability": 0.887,
+      "cost_per_unit": 0.673
+    },
+    {
+      "id": "23",
+      "capacity": 0.888,
+      "energy_efficiency": 0.343,
+      "latency": 0.548,
+      "compute_load": 0.704,
+      "availability": 0.773,
+      "reliability": 0.913,
+      "cost_per_unit": 1.609
+    },
+    {
+      "id": "24",
+      "capacity": 0.866,
+      "energy_efficiency": 0.814,
+      "latency": 0.36,
+      "compute_load": 0.909,
+      "availability": 0.574,
+      "reliability": 0.942,
+      "cost_per_unit": 1.683
+    },
+    {
+      "id": "25",
+      "capacity": 0.484,
+      "energy_efficiency": 0.803,
+      "latency": 0.808,
+      "compute_load": 0.173,
+      "availability": 0.834,
+      "reliability": 0.566,
+      "cost_per_unit": 1.644
+    },
+    {
+      "id": "26",
+      "capacity": 0.685,
+      "energy_efficiency": 0.592,
+      "latency": 0.109,
+      "compute_load": 0.124,
+      "availability": 0.734,
+      "reliability": 0.582,
+      "cost_per_unit": 0.426
+    },
+    {
+      "id": "27",
+      "capacity": 0.506,
+      "energy_efficiency": 0.783,
+      "latency": 0.506,
+      "compute_load": 0.721,
+      "availability": 0.899,
+      "reliability": 0.708,
+      "cost_per_unit": 1.763
+    },
+    {
+      "id": "28",
+      "capacity": 0.358,
+      "energy_efficiency": 0.168,
+      "latency": 0.634,
+      "compute_load": 0.927,
+      "availability": 0.53,
+      "reliability": 0.79,
+      "cost_per_unit": 1.065
+    },
+    {
+      "id": "29",
+      "capacity": 0.781,
+      "energy_efficiency": 0.157,
+      "latency": 0.643,
+      "compute_load": 0.238,
+      "availability": 0.784,
+      "reliability": 0.996,
+      "cost_per_unit": 0.715
+    }
+  ]
+}
